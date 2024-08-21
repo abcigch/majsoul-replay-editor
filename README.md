@@ -54,6 +54,6 @@
 
 ## 示例代码的部分截图
 
-![](https://github.com/GrandDawn/majsoul-replay-editor/master/preview1.JPG)
-![](https://github.com/GrandDawn/majsoul-replay-editor/master/preview2.JPG)
-![](https://github.com/GrandDawn/majsoul-replay-editor/master/preview3.JPG)
+![](https://raw.githubusercontent.com/GrandDawn/majsoul-replay-editor/master/preview1.JPG)
+![](https://raw.githubusercontent.com/GrandDawn/majsoul-replay-editor/master/preview2.JPG)
+![](https://raw.githubusercontent.com/GrandDawn/majsoul-replay-editor/master/preview3.JPG)
