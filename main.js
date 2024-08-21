@@ -931,8 +931,8 @@ function calcfan_chuanma(tls,seat,zimo,type){
         if(qingyise&&ans[1012]==4)ans[1015]=6;//清龙七对
         if(gangzi==4){ans[1016]=6;ans[1000]-=4;}//十八罗汉
         if(qingyise&&gangzi==4)ans[1017]=6;//清十八罗汉
-        if(paihe.tiles.length==0&&seat==ju&&zimo)ans[1018]=6;//天和 
-        if(paihe.tiles.length==0&&seat!=ju&&zimo)ans[1019]=6;//地和 
+        if(paihe[seat].tiles.length==0&&seat==ju&&zimo)ans[1018]=6;//天和 
+        if(paihe[seat].tiles.length==0&&seat!=ju&&zimo)ans[1019]=6;//地和 
         if(qingyise&&quandai)ans[1020]=5;//清带幺
         if(type!=1&&paishan.length/2==0)ans[1021]=1;//海底捞月 
         return tofan(ans);
