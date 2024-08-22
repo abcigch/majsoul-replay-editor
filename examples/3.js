@@ -88,4 +88,6 @@ roundbegin();
 huansanzhang(["7p","8p","8s"],["3z","3z","3z"],["9p","7s","9s"],["3s","3s","3s"],1);
 hupai(true);
 roundend();
+
+gameend();
 try{MRE.close();}catch(e){};
