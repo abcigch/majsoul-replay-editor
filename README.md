@@ -1,4 +1,6 @@
-**目前请减少使用！！！谢谢配合。** 已经是年久失修的代码了，正常牌局似乎还可以正常使用。
+**目前请减少使用！！！谢谢配合。** 
+
+更好的体验可以访问 [Fat-pig-Cui](https://github.com/Fat-pig-Cui) 做的[贡献](https://github.com/Fat-pig-Cui/majsoul-replay-editor)。
 
 # 雀魂回放编辑器Replay_Editor
 
